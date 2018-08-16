@@ -1,7 +1,6 @@
 {
   "name": "nodejs-tutos",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,14 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryJCM/nodejs-tutos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HenryJCM/nodejs-tutos/issues"
+  },
+  "homepage": "https://github.com/HenryJCM/nodejs-tutos#readme",
+  "description": ""
 }
